@@ -1,7 +1,7 @@
-### Hi there 👋
 ![](C33t.gif)
 
 <!--
+### Hi there 👋
 **wherevlad/wherevlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
